@@ -1,0 +1,7 @@
+{
+    "minecraft-username": "Your minecraft username (usually an email)",
+    "minecraft-password": "Your minecraft password",
+    "discord-channel": "Channel ID (Should look something like 632009822572642310)",
+    "hypixelapikey": "A hypixel API key (Get it by using /api on hypixel)",
+    "bot-token": "Your discord bot token"
+  }

@@ -1,0 +1,15 @@
+{
+  "name": "Hypixel Discord Bridge Bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "dily1234",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.5.0",
+    "hypixel-api-reborn": "^9.0.3",
+    "mineflayer": "^3.14.0"
+  }
+}
